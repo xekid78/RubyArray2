@@ -1,8 +1,8 @@
-# RubyArray2
-配列その２
+# RubyEachWithIndexMethod
+each_with_indexメソッド
 
 ## 処理
-配列の内容をeach_with_indexメソッドを使って順次読み出し出力します。
+配列の内容をArrayクラスのeach_with_indexメソッドを使って出力します。
 
 ## コード
 ```
