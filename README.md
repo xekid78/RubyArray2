@@ -1,8 +1,8 @@
 # RubyEachWithIndexMethod
-each_with_indexメソッド
+`each_with_index()`メソッド
 
 ## 処理
-配列の内容をArrayクラスのeach_with_indexメソッドを使って出力します。
+配列の内容を`Array()`クラスの`each_with_index()`メソッドを使って出力します。
 
 ## コード
 ```
